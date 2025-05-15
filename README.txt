@@ -1,13 +1,12 @@
-China News Aggregator - 部署指南
+China News Aggregator v2 - 实时展示中国相关新闻
 
-1. 打开 https://github.com 并登录你的账户
-2. 点击右上角 "+" → New Repository
-   - Repository name: china-news-reader
-   - Public 仓库
-3. 创建后，点击 "Add file" → "Upload files"，上传本压缩包内所有文件（解压后）
-4. 上传完成后，点击 "Settings" → "Pages"
-   - Source 选择 "main" 分支 / 根目录
-   - 保存设置
-5. 页面会显示你的网页地址，如：https://yourname.github.io/china-news-reader/
+✅ 实现：
+- 抓取并展示各 RSS 的标题、时间和原文链接
+- 前端纯 JS 实现（基于 rss2json 免费代理）
+- 可部署在 GitHub Pages / Netlify
 
-Enjoy!
+📦 包含文件：
+- index.html
+- style.css
+- main.js
+- rss.json

@@ -1,31 +1,44 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #f9f9f9;
-    color: #333;
+    background: #f2f2f2;
     margin: 0;
     padding: 1em;
+    color: #333;
 }
 h1 {
     text-align: center;
+    color: #2a4d69;
+}
+.subtitle {
+    text-align: center;
+    color: #555;
+    font-size: 1em;
+    margin-bottom: 1em;
 }
 .news-source {
-    margin-top: 2em;
+    background: white;
+    border-radius: 12px;
+    padding: 1em;
+    margin-bottom: 1.5em;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
 .news-source h2 {
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
     border-bottom: 1px solid #ccc;
 }
 .news-item {
-    margin: 0.5em 0;
+    margin-bottom: 0.5em;
 }
 .news-item a {
+    color: #007acc;
     text-decoration: none;
-    color: #0066cc;
 }
 .news-item a:hover {
     text-decoration: underline;
 }
 .news-time {
     font-size: 0.9em;
-    color: #777;
+    color: #888;
 }
