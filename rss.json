@@ -1,0 +1,13 @@
+{
+    "Global Times": "https://www.globaltimes.cn/rss/China.xml",
+    "Xinhua": "http://www.xinhuanet.com/english/rss/worldrss.xml",
+    "China Daily": "https://www.chinadaily.com.cn/rss/china_rss.xml",
+    "CGTN": "https://www.cgtn.com/rss/",
+    "SCMP": "https://www.scmp.com/rss/91/feed",
+    "Reuters": "https://feeds.reuters.com/Reuters/worldNews",
+    "AP": "https://rss.apnews.com/rss/apf-international",
+    "Yonhap": "https://en.yna.co.kr/RSS/",
+    "The Guardian": "https://www.theguardian.com/world/china/rss",
+    "Aljazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "CIDCA": "https://en.cidca.gov.cn/rss.xml"
+}

@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 1em;
+}
+h1 {
+    text-align: center;
+}
+.news-source {
+    margin-top: 2em;
+}
+.news-source h2 {
+    border-bottom: 1px solid #ccc;
+}
+.news-item {
+    margin: 0.5em 0;
+}
+.news-item a {
+    text-decoration: none;
+    color: #0066cc;
+}
+.news-item a:hover {
+    text-decoration: underline;
+}
+.news-time {
+    font-size: 0.9em;
+    color: #777;
+}
